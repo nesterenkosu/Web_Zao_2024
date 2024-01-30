@@ -1,0 +1,23 @@
+span {
+	background-color: red;
+}
+
+div {
+	background-color: green;
+}
+
+span.redtext {
+	color: red;
+	font-weight: bold;
+	background-color: white;
+}
+			
+span.greentext {
+	color: green;
+	font-weight: bold;
+	background-color: white;
+}
+
+p{
+	text-align: justify;
+}
